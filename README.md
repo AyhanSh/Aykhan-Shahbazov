@@ -1,4 +1,6 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGo1cGk1dGxzMmp6OWFhejR2dzE3ZWZ6cDZyMzlhMGhvaGQ4bmdnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif" align="center" ></img>
+<div style="text-align:center;">
+  <img src="https://media.giphy.com/media/iNPNqI81MvDQ4D4n6D/giphy.gif" alt="gif" />
+</div>
 <h1 align="center">Hi 👋, I'm Aykhan</h1>
 <h2 align="center">A passionate Tech and Business Developer 🖥️</h2>
 
