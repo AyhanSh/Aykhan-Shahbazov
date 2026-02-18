@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div style="text-align:center;" align="center">
   <img src="https://media.giphy.com/media/iNPNqI81MvDQ4D4n6D/giphy.gif" alt="gif" />
 </div>
 <h1 align="center">Hi 👋, I'm Aykhan</h1>
